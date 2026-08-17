@@ -1,0 +1,11 @@
+# Mission Reflection
+
+Completing Laboratory Activity 3, “Become a Multi-Cloud Explorer,” helped me understand the differences and similarities between Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Among the three cloud platforms, Google Cloud impressed me the most because of its strong capabilities in Artificial Intelligence, Machine Learning, data analytics, and Kubernetes. However, I also learned that each provider has different strengths, and the best platform depends on the needs of an organization.
+
+AWS, Azure, and GCP have many similarities because they all provide essential cloud services such as virtual machines, object storage, databases, networking, identity management, and Kubernetes. They also provide scalable infrastructure that allows organizations to increase or decrease their resources depending on their requirements. Although their services have different names, many of them perform similar functions.
+
+Business requirements are very important when selecting a cloud platform. For example, a company that already uses Windows Server, Microsoft 365, and Active Directory may benefit more from Microsoft Azure because of its strong Microsoft integration. An AI research company may prefer Google Cloud because of its AI and Machine Learning services, while a startup or global e-commerce company may choose AWS because of its wide range of services and scalable infrastructure.
+
+Acting as a Cloud Solutions Consultant taught me that cloud platform selection should not be based only on popularity. A good cloud solution should consider the organization's budget, existing technologies, workload requirements, scalability, security, and future growth. This activity helped me practice analyzing business situations and matching them with appropriate cloud services.
+
+My GitHub Cloud Computing Portfolio also improved after completing this mission. I learned how to organize research documents, comparison tables, screenshots, Linux investigation results, recommendations, and reflections in a structured repository. Overall, this laboratory improved my understanding of cloud computing and helped me develop a better mindset for making technical decisions based on real business requirements.
